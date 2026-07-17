@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+
+    <!-- This tag will display the raw JSON text exactly as written -->
+    <pre id="json-output"></pre>
+
+    <script>
+        window.onload = function() {
+            // Get current time in milliseconds
+            var now = new Date().getTime();
+            
+            // Build the data object
+            var timeData = {
+                "utc_timestamp": now,
+                "serverTime": Math.floor(now / 1000)
+            };
+
+            // Convert the object to a clean JSON string
+            // The null and 2 arguments format it with clean indents
+            var jsonString = JSON.stringify(timeData, null, 2);
+
+            // Output the JSON string directly onto the webpage
+            document.getElementById('json-output').innerHTML = jsonString;
+        };
+    </script>
+</body>
+</html>

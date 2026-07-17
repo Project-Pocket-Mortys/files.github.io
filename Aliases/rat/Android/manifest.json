@@ -1,0 +1,1252 @@
+{
+  "anatomyparkbundle2": {
+    "id": "anatomyparkbundle2",
+    "crc": "436771977",
+    "version": "102",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/anatomyparkbundle2.assetbundle"
+  },
+  "anime101": {
+    "id": "anime101",
+    "crc": "610874899",
+    "version": "1003",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/anime101.assetbundle"
+  },
+  "anime102": {
+    "id": "anime102",
+    "crc": "661613981",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/anime102.assetbundle"
+  },
+  "anime103": {
+    "id": "anime103",
+    "crc": "3165910335",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/anime103.assetbundle"
+  },
+  "anime104": {
+    "id": "anime104",
+    "crc": "2540876223",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/anime104.assetbundle"
+  },
+  "anime105": {
+    "id": "anime105",
+    "crc": "1462167577",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/anime105.assetbundle"
+  },
+  "anime106": {
+    "id": "anime106",
+    "crc": "663591684",
+    "version": "3",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/anime106.assetbundle"
+  },
+  "anime107": {
+    "id": "anime107",
+    "crc": "3836349869",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/anime107.assetbundle"
+  },
+  "anime108": {
+    "id": "anime108",
+    "crc": "1128877794",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/anime108.assetbundle"
+  },
+  "anime109": {
+    "id": "anime109",
+    "crc": "2810135286",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/anime109.assetbundle"
+  },
+  "anime110": {
+    "id": "anime110",
+    "crc": "1504397993",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/anime110.assetbundle"
+  },
+  "anime110raidbossgiantbug": {
+    "id": "anime110raidbossgiantbug",
+    "crc": "1467615508",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/anime110raidbossgiantbug.assetbundle"
+  },
+  "appdata": {
+    "id": "appdata",
+    "crc": "1847994213",
+    "version": "2003",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/appdata.assetbundle"
+  },
+  "au001": {
+    "id": "au001",
+    "crc": "3006318219",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au001.assetbundle"
+  },
+  "au002": {
+    "id": "au002",
+    "crc": "3140360290",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au002.assetbundle"
+  },
+  "au003": {
+    "id": "au003",
+    "crc": "3243861478",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au003.assetbundle"
+  },
+  "au004": {
+    "id": "au004",
+    "crc": "2294258578",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au004.assetbundle"
+  },
+  "au005": {
+    "id": "au005",
+    "crc": "4089743757",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au005.assetbundle"
+  },
+  "au006": {
+    "id": "au006",
+    "crc": "1045176366",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au006.assetbundle"
+  },
+  "au007": {
+    "id": "au007",
+    "crc": "2171351164",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au007.assetbundle"
+  },
+  "au008": {
+    "id": "au008",
+    "crc": "2545842316",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au008.assetbundle"
+  },
+  "au009": {
+    "id": "au009",
+    "crc": "1248988449",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au009.assetbundle"
+  },
+  "au010": {
+    "id": "au010",
+    "crc": "3795383007",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au010.assetbundle"
+  },
+  "au011": {
+    "id": "au011",
+    "crc": "1677775860",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au011.assetbundle"
+  },
+  "au012": {
+    "id": "au012",
+    "crc": "3590803108",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au012.assetbundle"
+  },
+  "au013": {
+    "id": "au013",
+    "crc": "1327256192",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au013.assetbundle"
+  },
+  "au014": {
+    "id": "au014",
+    "crc": "3028643768",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au014.assetbundle"
+  },
+  "au015": {
+    "id": "au015",
+    "crc": "1883376464",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/au015.assetbundle"
+  },
+  "ep301": {
+    "id": "ep301",
+    "crc": "916419928",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep301.assetbundle"
+  },
+  "ep302": {
+    "id": "ep302",
+    "crc": "546415299",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep302.assetbundle"
+  },
+  "ep303": {
+    "id": "ep303",
+    "crc": "2484671865",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep303.assetbundle"
+  },
+  "ep304": {
+    "id": "ep304",
+    "crc": "1397139082",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep304.assetbundle"
+  },
+  "ep305": {
+    "id": "ep305",
+    "crc": "2202800764",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep305.assetbundle"
+  },
+  "ep306": {
+    "id": "ep306",
+    "crc": "3734187607",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep306.assetbundle"
+  },
+  "ep307": {
+    "id": "ep307",
+    "crc": "3385143668",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep307.assetbundle"
+  },
+  "ep308": {
+    "id": "ep308",
+    "crc": "2130933465",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep308.assetbundle"
+  },
+  "ep309": {
+    "id": "ep309",
+    "crc": "2546707635",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep309.assetbundle"
+  },
+  "ep310": {
+    "id": "ep310",
+    "crc": "856895939",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep310.assetbundle"
+  },
+  "ep401": {
+    "id": "ep401",
+    "crc": "3445209269",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep401.assetbundle"
+  },
+  "ep402": {
+    "id": "ep402",
+    "crc": "3979860407",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep402.assetbundle"
+  },
+  "ep403": {
+    "id": "ep403",
+    "crc": "2951154543",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep403.assetbundle"
+  },
+  "ep404": {
+    "id": "ep404",
+    "crc": "1447636464",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep404.assetbundle"
+  },
+  "ep405": {
+    "id": "ep405",
+    "crc": "203101112",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep405.assetbundle"
+  },
+  "ep406": {
+    "id": "ep406",
+    "crc": "3837426428",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep406.assetbundle"
+  },
+  "ep407": {
+    "id": "ep407",
+    "crc": "3199366092",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep407.assetbundle"
+  },
+  "ep408": {
+    "id": "ep408",
+    "crc": "3186623528",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep408.assetbundle"
+  },
+  "ep409": {
+    "id": "ep409",
+    "crc": "36181890",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep409.assetbundle"
+  },
+  "ep410": {
+    "id": "ep410",
+    "crc": "1220091917",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep410.assetbundle"
+  },
+  "ep501": {
+    "id": "ep501",
+    "crc": "1539201291",
+    "version": "9",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep501.assetbundle"
+  },
+  "ep502": {
+    "id": "ep502",
+    "crc": "1551552062",
+    "version": "9",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep502.assetbundle"
+  },
+  "ep503": {
+    "id": "ep503",
+    "crc": "29341383",
+    "version": "9",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep503.assetbundle"
+  },
+  "ep504": {
+    "id": "ep504",
+    "crc": "1505622625",
+    "version": "10",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep504.assetbundle"
+  },
+  "ep505": {
+    "id": "ep505",
+    "crc": "1997586848",
+    "version": "9",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep505.assetbundle"
+  },
+  "ep506": {
+    "id": "ep506",
+    "crc": "2496088061",
+    "version": "11",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep506.assetbundle"
+  },
+  "ep507": {
+    "id": "ep507",
+    "crc": "189110585",
+    "version": "9",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep507.assetbundle"
+  },
+  "ep508": {
+    "id": "ep508",
+    "crc": "1140589992",
+    "version": "9",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep508.assetbundle"
+  },
+  "ep5final": {
+    "id": "ep5final",
+    "crc": "3830761297",
+    "version": "9",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep5final.assetbundle"
+  },
+  "ep601": {
+    "id": "ep601",
+    "crc": "1005945834",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep601.assetbundle"
+  },
+  "ep602": {
+    "id": "ep602",
+    "crc": "298725885",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep602.assetbundle"
+  },
+  "ep603": {
+    "id": "ep603",
+    "crc": "2282304084",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep603.assetbundle"
+  },
+  "ep604": {
+    "id": "ep604",
+    "crc": "2476018253",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep604.assetbundle"
+  },
+  "ep605": {
+    "id": "ep605",
+    "crc": "3393880222",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep605.assetbundle"
+  },
+  "ep606": {
+    "id": "ep606",
+    "crc": "3399708464",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep606.assetbundle"
+  },
+  "ep607": {
+    "id": "ep607",
+    "crc": "616392970",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep607.assetbundle"
+  },
+  "ep608": {
+    "id": "ep608",
+    "crc": "2940362232",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep608.assetbundle"
+  },
+  "ep609": {
+    "id": "ep609",
+    "crc": "2894643570",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep609.assetbundle"
+  },
+  "ep610": {
+    "id": "ep610",
+    "crc": "2757196062",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep610.assetbundle"
+  },
+  "ep701": {
+    "id": "ep701",
+    "crc": "2665305726",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep701.assetbundle"
+  },
+  "ep702": {
+    "id": "ep702",
+    "crc": "4087045671",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep702.assetbundle"
+  },
+  "ep703": {
+    "id": "ep703",
+    "crc": "421174257",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep703.assetbundle"
+  },
+  "ep704": {
+    "id": "ep704",
+    "crc": "1133968233",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep704.assetbundle"
+  },
+  "ep705": {
+    "id": "ep705",
+    "crc": "326865559",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep705.assetbundle"
+  },
+  "ep706": {
+    "id": "ep706",
+    "crc": "1165211619",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep706.assetbundle"
+  },
+  "ep707": {
+    "id": "ep707",
+    "crc": "3715050595",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep707.assetbundle"
+  },
+  "ep708": {
+    "id": "ep708",
+    "crc": "716452588",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep708.assetbundle"
+  },
+  "ep709": {
+    "id": "ep709",
+    "crc": "2171621534",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep709.assetbundle"
+  },
+  "ep710": {
+    "id": "ep710",
+    "crc": "461324671",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep710.assetbundle"
+  },
+  "ep801": {
+    "id": "ep801",
+    "crc": "273270274",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep801.assetbundle"
+  },
+  "ep802": {
+    "id": "ep802",
+    "crc": "1293114559",
+    "version": "1003",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep802.assetbundle"
+  },
+  "ep803": {
+    "id": "ep803",
+    "crc": "2836126515",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep803.assetbundle"
+  },
+  "ep804": {
+    "id": "ep804",
+    "crc": "4098077359",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep804.assetbundle"
+  },
+  "ep805": {
+    "id": "ep805",
+    "crc": "2273339660",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep805.assetbundle"
+  },
+  "ep806": {
+    "id": "ep806",
+    "crc": "3709633355",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep806.assetbundle"
+  },
+  "ep807": {
+    "id": "ep807",
+    "crc": "168417252",
+    "version": "1003",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep807.assetbundle"
+  },
+  "ep808": {
+    "id": "ep808",
+    "crc": "1516634256",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep808.assetbundle"
+  },
+  "ep809": {
+    "id": "ep809",
+    "crc": "308307820",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep809.assetbundle"
+  },
+  "ep810": {
+    "id": "ep810",
+    "crc": "2234545248",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/ep810.assetbundle"
+  },
+  "froopylandbundle2": {
+    "id": "froopylandbundle2",
+    "crc": "933267956",
+    "version": "5",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/froopylandbundle2.assetbundle"
+  },
+  "mpdata": {
+    "id": "mpdata",
+    "crc": "4099569620",
+    "version": "1050",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/mpdata.assetbundle"
+  },
+  "preload": {
+    "id": "preload",
+    "crc": "3039184025",
+    "version": "219",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/preload.assetbundle"
+  },
+  "psh001": {
+    "id": "psh001",
+    "crc": "1843840392",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh001.assetbundle"
+  },
+  "psh002": {
+    "id": "psh002",
+    "crc": "880246562",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh002.assetbundle"
+  },
+  "psh003": {
+    "id": "psh003",
+    "crc": "1638810823",
+    "version": "18",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh003.assetbundle"
+  },
+  "psh004": {
+    "id": "psh004",
+    "crc": "2395345409",
+    "version": "18",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh004.assetbundle"
+  },
+  "psh005": {
+    "id": "psh005",
+    "crc": "498131498",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh005.assetbundle"
+  },
+  "psh006": {
+    "id": "psh006",
+    "crc": "1367527743",
+    "version": "309",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh006.assetbundle"
+  },
+  "psh008": {
+    "id": "psh008",
+    "crc": "3350473008",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh008.assetbundle"
+  },
+  "psh009": {
+    "id": "psh009",
+    "crc": "29975703",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh009.assetbundle"
+  },
+  "psh010": {
+    "id": "psh010",
+    "crc": "198942177",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh010.assetbundle"
+  },
+  "psh011": {
+    "id": "psh011",
+    "crc": "1428954197",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh011.assetbundle"
+  },
+  "psh012": {
+    "id": "psh012",
+    "crc": "4063649724",
+    "version": "13",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh012.assetbundle"
+  },
+  "psh013": {
+    "id": "psh013",
+    "crc": "1444220809",
+    "version": "10",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh013.assetbundle"
+  },
+  "psh014": {
+    "id": "psh014",
+    "crc": "889001607",
+    "version": "11",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh014.assetbundle"
+  },
+  "psh015": {
+    "id": "psh015",
+    "crc": "2038364427",
+    "version": "10",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh015.assetbundle"
+  },
+  "psh016": {
+    "id": "psh016",
+    "crc": "2632471265",
+    "version": "12",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh016.assetbundle"
+  },
+  "psh017": {
+    "id": "psh017",
+    "crc": "2581702681",
+    "version": "7",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh017.assetbundle"
+  },
+  "psh018": {
+    "id": "psh018",
+    "crc": "3782141452",
+    "version": "7",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh018.assetbundle"
+  },
+  "psh019": {
+    "id": "psh019",
+    "crc": "1073386531",
+    "version": "7",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh019.assetbundle"
+  },
+  "psh020": {
+    "id": "psh020",
+    "crc": "2055774491",
+    "version": "7",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh020.assetbundle"
+  },
+  "psh021": {
+    "id": "psh021",
+    "crc": "3689807719",
+    "version": "7",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh021.assetbundle"
+  },
+  "psh022": {
+    "id": "psh022",
+    "crc": "2072642349",
+    "version": "7",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh022.assetbundle"
+  },
+  "psh023": {
+    "id": "psh023",
+    "crc": "3403165574",
+    "version": "9",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh023.assetbundle"
+  },
+  "psh024": {
+    "id": "psh024",
+    "crc": "3523298505",
+    "version": "7",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh024.assetbundle"
+  },
+  "psh025": {
+    "id": "psh025",
+    "crc": "3058272865",
+    "version": "7",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh025.assetbundle"
+  },
+  "psh026": {
+    "id": "psh026",
+    "crc": "1077547611",
+    "version": "1003",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh026.assetbundle"
+  },
+  "psh027": {
+    "id": "psh027",
+    "crc": "260795953",
+    "version": "3",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/psh027.assetbundle"
+  },
+  "spdata": {
+    "id": "spdata",
+    "crc": "56704220",
+    "version": "1045",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/spdata.assetbundle"
+  },
+  "text": {
+    "id": "text",
+    "crc": "1661817716",
+    "version": "1004",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/text.assetbundle"
+  },
+  "tg001": {
+    "id": "tg001",
+    "crc": "894890908",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg001.assetbundle"
+  },
+  "tg002": {
+    "id": "tg002",
+    "crc": "2881200148",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg002.assetbundle"
+  },
+  "tg003": {
+    "id": "tg003",
+    "crc": "3597364342",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg003.assetbundle"
+  },
+  "tg004": {
+    "id": "tg004",
+    "crc": "2066268225",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg004.assetbundle"
+  },
+  "tg005": {
+    "id": "tg005",
+    "crc": "1052648491",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg005.assetbundle"
+  },
+  "tg006": {
+    "id": "tg006",
+    "crc": "986542683",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg006.assetbundle"
+  },
+  "tg007": {
+    "id": "tg007",
+    "crc": "1041970776",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg007.assetbundle"
+  },
+  "tg008": {
+    "id": "tg008",
+    "crc": "2412092478",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg008.assetbundle"
+  },
+  "tg009": {
+    "id": "tg009",
+    "crc": "3778031257",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg009.assetbundle"
+  },
+  "tg010": {
+    "id": "tg010",
+    "crc": "1974156777",
+    "version": "3010008",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg010.assetbundle"
+  },
+  "tg011": {
+    "id": "tg011",
+    "crc": "1595099605",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg011.assetbundle"
+  },
+  "tg012": {
+    "id": "tg012",
+    "crc": "1256015646",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg012.assetbundle"
+  },
+  "tg013": {
+    "id": "tg013",
+    "crc": "973447984",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg013.assetbundle"
+  },
+  "tg014": {
+    "id": "tg014",
+    "crc": "3033722622",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg014.assetbundle"
+  },
+  "tg015": {
+    "id": "tg015",
+    "crc": "2669980245",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg015.assetbundle"
+  },
+  "tg016": {
+    "id": "tg016",
+    "crc": "3037254872",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg016.assetbundle"
+  },
+  "tg018": {
+    "id": "tg018",
+    "crc": "2542142351",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/tg018.assetbundle"
+  },
+  "v1.0.0": {
+    "id": "v1.0.0",
+    "crc": "2541233675",
+    "version": "236",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v1.0.0.assetbundle"
+  },
+  "v1.1.0": {
+    "id": "v1.1.0",
+    "crc": "2638661932",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v1.1.0.assetbundle"
+  },
+  "v1.10.0": {
+    "id": "v1.10.0",
+    "crc": "837477273",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v1.10.0.assetbundle"
+  },
+  "v1.2.0": {
+    "id": "v1.2.0",
+    "crc": "1257965928",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v1.2.0.assetbundle"
+  },
+  "v1.3.0": {
+    "id": "v1.3.0",
+    "crc": "1441666913",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v1.3.0.assetbundle"
+  },
+  "v1.4.0": {
+    "id": "v1.4.0",
+    "crc": "833077597",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v1.4.0.assetbundle"
+  },
+  "v1.6.0": {
+    "id": "v1.6.0",
+    "crc": "3971461664",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v1.6.0.assetbundle"
+  },
+  "v1.7.0": {
+    "id": "v1.7.0",
+    "crc": "397080966",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v1.7.0.assetbundle"
+  },
+  "v1.8.0": {
+    "id": "v1.8.0",
+    "crc": "2260885082",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v1.8.0.assetbundle"
+  },
+  "v1.9.0": {
+    "id": "v1.9.0",
+    "crc": "2042505475",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v1.9.0.assetbundle"
+  },
+  "v2.0.0": {
+    "id": "v2.0.0",
+    "crc": "4069409731",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v2.0.0.assetbundle"
+  },
+  "v2.2.0": {
+    "id": "v2.2.0",
+    "crc": "2073745021",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v2.2.0.assetbundle"
+  },
+  "v2.35.0": {
+    "id": "v2.35.0",
+    "crc": "3680613385",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v2.35.0.assetbundle"
+  },
+  "v2.36.0": {
+    "id": "v2.36.0",
+    "crc": "1712874503",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v2.36.0.assetbundle"
+  },
+  "v2.37.0": {
+    "id": "v2.37.0",
+    "crc": "3133203483",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v2.37.0.assetbundle"
+  },
+  "v2.38.0": {
+    "id": "v2.38.0",
+    "crc": "904821833",
+    "version": "3",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v2.38.0.assetbundle"
+  },
+  "v2.4.0": {
+    "id": "v2.4.0",
+    "crc": "1108791081",
+    "version": "309",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v2.4.0.assetbundle"
+  },
+  "v2.5.0": {
+    "id": "v2.5.0",
+    "crc": "3341194936",
+    "version": "308",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v2.5.0.assetbundle"
+  },
+  "v2.7.0": {
+    "id": "v2.7.0",
+    "crc": "720049692",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v2.7.0.assetbundle"
+  },
+  "v2.9.0": {
+    "id": "v2.9.0",
+    "crc": "4268032090",
+    "version": "1002",
+    "url": "https://assets.conspiracyrick.com/AssetBundles/AssetBundle-android:1011-ios:1011__7b175320/Android/v2.9.0.assetbundle"
+  },
+  "assetBundleTags": {
+    "preload": [
+      "appdata",
+      "spdata",
+      "mpdata",
+      "text",
+      "preload"
+    ],
+    "post_tutorial": [
+      "au001",
+      "au002",
+      "au003",
+      "au004",
+      "au005",
+      "au006",
+      "au007",
+      "au008",
+      "au009",
+      "au010",
+      "au011",
+      "au012",
+      "au013",
+      "au014",
+      "au015",
+      "ep301",
+      "ep302",
+      "ep303",
+      "ep304",
+      "ep305",
+      "ep306",
+      "ep307",
+      "ep308",
+      "ep309",
+      "ep310",
+      "v1.0.0",
+      "v1.1.0",
+      "v1.10.0",
+      "v1.2.0",
+      "v1.3.0",
+      "v1.4.0",
+      "v1.6.0",
+      "v1.7.0",
+      "v1.8.0",
+      "v1.9.0",
+      "v2.0.0",
+      "v2.2.0",
+      "v2.4.0",
+      "v2.5.0",
+      "v2.7.0",
+      "v2.9.0",
+      "tg001",
+      "tg002",
+      "tg003",
+      "tg004",
+      "tg005",
+      "tg006",
+      "tg007",
+      "tg008",
+      "tg009",
+      "tg010",
+      "tg011",
+      "tg012",
+      "tg013",
+      "tg014",
+      "tg015",
+      "tg016",
+      "tg018",
+      "ep401",
+      "ep402",
+      "ep403",
+      "ep404",
+      "ep405",
+      "ep406",
+      "ep407",
+      "ep408",
+      "ep409",
+      "ep410",
+      "psh001",
+      "psh002",
+      "psh003",
+      "psh004",
+      "psh005",
+      "psh006",
+      "psh008",
+      "psh009",
+      "psh010",
+      "psh011",
+      "psh012",
+      "psh013",
+      "psh014",
+      "psh015",
+      "psh016",
+      "psh017",
+      "psh018",
+      "psh019",
+      "psh020",
+      "psh021",
+      "psh022",
+      "psh023",
+      "psh024",
+      "psh025",
+      "psh026",
+      "ep501",
+      "ep502",
+      "ep503",
+      "ep504",
+      "ep505",
+      "ep506",
+      "ep507",
+      "ep508",
+      "ep508",
+      "ep5final",
+      "ep601",
+      "ep602",
+      "ep603",
+      "ep604",
+      "ep605",
+      "ep606",
+      "ep607",
+      "ep608",
+      "ep609",
+      "ep610",
+      "ep701",
+      "ep702",
+      "ep703",
+      "ep704",
+      "ep705",
+      "ep706",
+      "ep707",
+      "ep708",
+      "ep709",
+      "ep710",
+      "anime101",
+      "anime102",
+      "anime103",
+      "anime104",
+      "anime105",
+      "anime106",
+      "anime107",
+      "anime108",
+      "anime109",
+      "anime110",
+      "anime110raidbossgiantbug",
+      "v2.35.0",
+      "v2.36.0",
+      "v2.37.0",
+      "anatomyparkbundle2",
+      "v2.38.0",
+      "froopylandbundle2",
+      "ep801",
+      "ep802",
+      "ep803",
+      "ep804",
+      "ep805",
+      "ep806",
+      "ep807",
+      "ep808",
+      "ep809",
+      "ep810",
+      "psh027"
+    ],
+    "everything": [
+      "appdata",
+      "spdata",
+      "mpdata",
+      "text",
+      "preload",
+      "au001",
+      "au002",
+      "au003",
+      "au004",
+      "au005",
+      "au006",
+      "au007",
+      "au008",
+      "au009",
+      "au010",
+      "au011",
+      "au012",
+      "au013",
+      "au014",
+      "au015",
+      "ep301",
+      "ep302",
+      "ep303",
+      "ep304",
+      "ep305",
+      "ep306",
+      "ep307",
+      "ep308",
+      "ep309",
+      "ep310",
+      "v1.0.0",
+      "v1.1.0",
+      "v1.10.0",
+      "v1.2.0",
+      "v1.3.0",
+      "v1.4.0",
+      "v1.6.0",
+      "v1.7.0",
+      "v1.8.0",
+      "v1.9.0",
+      "v2.0.0",
+      "v2.2.0",
+      "v2.4.0",
+      "v2.5.0",
+      "v2.7.0",
+      "v2.9.0",
+      "tg001",
+      "tg002",
+      "tg003",
+      "tg004",
+      "tg005",
+      "tg006",
+      "tg007",
+      "tg008",
+      "tg009",
+      "tg010",
+      "tg011",
+      "tg012",
+      "tg013",
+      "tg014",
+      "tg015",
+      "tg016",
+      "tg018",
+      "ep401",
+      "ep402",
+      "ep403",
+      "ep404",
+      "ep405",
+      "ep406",
+      "ep407",
+      "ep408",
+      "ep409",
+      "ep410",
+      "psh001",
+      "psh002",
+      "psh003",
+      "psh004",
+      "psh005",
+      "psh006",
+      "psh008",
+      "psh009",
+      "psh010",
+      "psh011",
+      "psh012",
+      "psh013",
+      "psh014",
+      "psh015",
+      "psh016",
+      "psh017",
+      "psh018",
+      "psh019",
+      "psh020",
+      "psh021",
+      "psh022",
+      "psh023",
+      "psh024",
+      "psh025",
+      "psh026",
+      "ep501",
+      "ep502",
+      "ep503",
+      "ep504",
+      "ep505",
+      "ep506",
+      "ep507",
+      "ep508",
+      "ep5final",
+      "ep601",
+      "ep602",
+      "ep603",
+      "ep604",
+      "ep605",
+      "ep606",
+      "ep607",
+      "ep608",
+      "ep609",
+      "ep610",
+      "ep701",
+      "ep702",
+      "ep703",
+      "ep704",
+      "ep705",
+      "ep706",
+      "ep707",
+      "ep708",
+      "ep709",
+      "ep710",
+      "anime101",
+      "anime102",
+      "anime103",
+      "anime104",
+      "anime105",
+      "anime106",
+      "anime107",
+      "anime108",
+      "anime109",
+      "anime110",
+      "anime110raidbossgiantbug",
+      "v2.35.0",
+      "v2.36.0",
+      "v2.37.0",
+      "anatomyparkbundle2",
+      "v2.38.0",
+      "froopylandbundle2",
+      "ep801",
+      "ep802",
+      "ep803",
+      "ep804",
+      "ep805",
+      "ep806",
+      "ep807",
+      "ep808",
+      "ep809",
+      "ep810",
+      "psh027"
+    ]
+  },
+  "version": "1011"
+}
